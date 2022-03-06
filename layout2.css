@@ -1,0 +1,56 @@
+
+.header{
+    height: 100px;
+    width: 1500px;
+    background-color: blueviolet;
+    margin: 0;
+}
+
+.menu{
+    height: 100px;
+    width: 1500px;
+    background-color: chartreuse;
+}
+
+section{
+    height: 200px;
+    width: 100%;
+}
+
+.content1{
+    height: 200px;
+    width: 20%;
+    background-color: dimgray;
+    float: left;
+    margin-top: 5px;
+
+}
+
+.main{
+    height: 200px;
+    width: 58.3%;
+    background-color: chocolate;
+    float: center;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.content2{
+    height: 200px;
+    width: 20%;
+    background-color: dimgray;
+    float: right;
+    margin-top: -200px;
+    margin-left: 0%;
+    
+}
+
+.footer{
+    height: 100px;
+    width: 1500px;
+    background-color: blue;
+    margin-top: 5px;
+}
+ 
+
+

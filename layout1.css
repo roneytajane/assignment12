@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+
+}
+.header{
+    height: 200px;
+    width: 1500px;
+    background-color:aqua ;
+    margin: 0;
+    
+    
+}
+
+.main{
+    height: 400px;
+    width: 800px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+.sidebar{
+    height: 400px;
+    width: 500px;
+    background-color: aquamarine;
+    margin-top: -400px;
+
+}
+
+.footer{
+    height: 200px;
+    width: 1500px;
+    background-color: aqua;
+    margin-top: 10px;
+}
